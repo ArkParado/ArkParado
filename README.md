@@ -191,7 +191,7 @@ print("Vibe check:", me.current_vibe())
 }
 ```
 
-## `$ ssh git@github.com && cat ~/.social_links`
+## $ ssh git@github.com && cat ~/.social_links
 
 <div align="center">
 
@@ -201,7 +201,7 @@ print("Vibe check:", me.current_vibe())
 
 </div>
 
-## `$ fortune | cowsay`
+## $ fortune | cowsay
 
 > 💭 *"I don't write bugs, I create undocumented features with AI"*
 > 
