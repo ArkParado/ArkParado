@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠞⢳⠀⠀⠀⠀⠀   $ whoami
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠋⠀⢰⠎⠀⠀⠀⠀⠀    ───────────────────────────────────
@@ -16,8 +14,6 @@
 ⠀⠀⠀⠀⠀⠀⠈⠳⢤⣀⡶⠤⣷⣅⡀⠀⠀⠀⣀⡠⢔⠕⠁⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠫⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀
 ```
-
-</div>
 
 ## `$ cat ~/.config/about.yaml`
 
@@ -106,9 +102,21 @@ print("Vibe check:", me.current_vibe())
 
 ## `$ git log --stat --pretty=oneline`
 
+</div>
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkParado&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7)
 
+</div>
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkParado&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4)
+
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArkParado&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=f5c2e7&fire=fab387&currStreakLabel=cba6f7)
 
@@ -195,22 +203,9 @@ print("Vibe check:", me.current_vibe())
 
 ## `$ fortune | cowsay`
 
-```
- _________________________________________
-/ "I don't write bugs, I create          \
-| undocumented features with AI"         |
-|                                         |
-| - Every vibe coder ever                |
-\                                         /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
----
+> 💭 *"I don't write bugs, I create undocumented features with AI"*
+> 
+> — Every vibe coder ever
 
 <div align="center">
 
@@ -227,7 +222,7 @@ print("Vibe check:", me.current_vibe())
 ╚════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f5c2e7&style=flat-square&label=Terminal+Visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=ArkParado&color=f5c2e7&style=flat-square&label=Terminal+Visitors)
 
 **● ● ● ● ● ● ● ●**
 
